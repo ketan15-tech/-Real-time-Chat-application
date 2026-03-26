@@ -1,4 +1,4 @@
-# 🚀 Real-Time Chat Platform
+#  Real-Time Chat Platform
 This project is a **Real-Time Chat Application** built using modern web technologies that enables users to communicate instantly within chat rooms.  
 It follows an **event-driven architecture** to ensure seamless and real-time interaction between users. 
 
