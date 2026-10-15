@@ -11,7 +11,7 @@ It follows an **event-driven architecture** to ensure seamless and real-time int
 
 ##  Tech Stack
 - **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js  
 - **Real-time Communication:** Socket.IO  
 ##  Working
 The application uses an **event-driven architecture** powered by Socket.IO.  
